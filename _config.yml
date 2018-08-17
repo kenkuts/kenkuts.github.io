@@ -1,12 +1,12 @@
 # Site settings
 title: Excelsior
-header-img: img/home-bg.png
+header-img: img/ny.jpg #home-bg.png
 email: kennethchoi19@gmail.com
 copyright_name: kenkuts
 description: > # this means to ignore newlines until "baseurl:"
   Keep moving forward
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username:
 github_username:  kenkuts
 learn_profile: kenkuts
 email_username: kennethchoi19@gmail.com
